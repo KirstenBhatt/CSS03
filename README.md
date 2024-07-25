@@ -1,2 +1,2 @@
 # CSS03
-git excercise 3
+git excercise 3, Grouping Selectors
